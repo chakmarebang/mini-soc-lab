@@ -62,8 +62,6 @@ mini-soc-lab/
 - [ ] Incident reports written for each scenario
 - [ ] Write-up published (blog/LinkedIn)
 
-*(Check these off as you go — this checklist itself is a nice thing to screenshot for LinkedIn progress posts.)*
-
 ---
 
 ## 🎯 What This Project Demonstrates
@@ -92,4 +90,4 @@ This project is for **educational purposes in an isolated lab environment only**
 
 ## 🔗 Author Notes
 
-*(Fill this in — a couple sentences on your background and why you built this. Recruiters read this.)*
+this is just a simple demo to understand soc roles in cybersecurity
