@@ -1,0 +1,16 @@
+# VM files
+*.vdi
+*.vmdk
+*.ova
+*.ovf
+
+# Logs (don't commit real captured logs/PII from your lab)
+*.log
+logs/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Wordlists (too large, download separately)
+rockyou.txt
